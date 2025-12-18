@@ -1,0 +1,21 @@
+Forum: CrackingX[.]com
+
+IP: 185[.206[.215[.219
+ASN: 204601
+Country: Netherlands 🇳🇱
+Server: nginx
+X-Powered-By: PHP/7.4.33
+Ports: 21, 22, 80, 110, 143, 443, 465, 587, 993, 995, 2525, 3306, 8083
+
+https://185[.206[.215[.219:8083/login/
+
+3306/tcp  open   mysql      MariaDB 5.5.68
+| mysql-info: 
+|   Protocol: 10
+|   Version: 5.5.68-MariaDB
+|   Thread ID: 8412040
+|   Capabilities flags: 63487
+|   Some Capabilities: Support41Auth, FoundRows, Speaks41ProtocolOld, SupportsTransactions, ODBCClient, DontAllowDatabaseTableColumn, SupportsCompression, InteractiveClient, Speaks41ProtocolNew, IgnoreSigpipes, LongColumnFlag, LongPassword, SupportsLoadDataLocal, IgnoreSpaceBeforeParenthesis, ConnectWithDatabase, SupportsMultipleStatments, SupportsAuthPlugins, SupportsMultipleResults
+|   Status: Autocommit
+|   Salt: %s9_S`jt'a7-y<^CuF:2
+|_  Auth Plugin Name: mysql_native_password
